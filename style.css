@@ -1,0 +1,241 @@
+*{
+    padding: 0;
+    margin: 0;    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.header_page{
+    background: url(images/4f03cb261de0cb6638e3199b86ee87ed.jpg);
+    width: 1440px;
+    height: 1024px;
+}
+.nav_header{
+    padding: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;     
+   
+}
+.logo{
+    display: block;
+    margin-top: 8px;   
+}
+.nav_menu{    
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: auto 0;
+    padding: 0;
+    margin-left: 149px;
+   
+}
+.nav_text{  
+    padding: 30px;
+    font-size: 18px;
+}
+
+.decor_cabel{
+    position: absolute;
+    top: 862px;
+    left: 913px
+    
+    
+}
+.decor_phone{
+    position: absolute;
+    top: 127px;
+    left: 865px;
+}
+
+.music_play{
+    color:aliceblue;
+    width: 412px;
+    height: 264px;
+    position: absolute;
+    top: 291px;
+    left: 115px;
+    font-family: url('https://fonts.cdnfonts.com/css/kenia');
+    font-size: 150px;
+    line-height: 150px;
+    
+}
+
+.name_music{
+    width: 290px;
+    height: 63px;
+    position: absolute;
+    top: 730px;
+    left: 122px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    line-height: 28.79px;
+    color: #ffffff;
+}
+
+.music_red{
+    background-color: red;
+    width: 1440px;
+    height: 1024px;
+}
+
+.music{
+    position: relative;
+    top: 83px;
+    left: 122px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35.07px;
+    color: rgba(255, 255, 255, 1);
+}
+.act{
+    width: 1000px;
+    height: 666.5px;
+    position: relative;
+    top: 10px;
+    left: 440px;
+}
+
+.but_list{
+    width: 382px;
+    height: 83px;
+    position: relative;
+    top: 385px;
+    left: 122px;  
+    background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46.76px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.but_find{
+    width: 382px;
+    height: 83px;
+    position: relative;
+    top: 480px;
+    left: 122px;  
+    background: radial-gradient(98.43% 2084.95% at 1.57% 7.83%, #B13E18 0%, #F3501A 100%);
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46.76px;
+    color: rgba(255, 255, 255, 1);
+}
+.about{
+    width: 1440px;
+    height: 1024px;
+    background: linear-gradient(180deg, #D53005 0%, #000000 6.04%);
+}
+
+h4{
+    width: 81px;
+    height: 35px;
+    position: relative;
+    top: 83px;
+    left: 122px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 35.07px;
+    color: rgba(255, 255, 255, 1);    
+}
+.text{
+    width: 969px;
+    height: 72px;
+    position: relative;
+    top: 476px;
+    left: 275px;
+    font-family: Karla;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:rgba(255, 255, 255, 1);
+}
+
+.store{
+    width: 1440px;
+    height: 1024px;
+    background-color: red;
+   
+}
+
+.mcbook{
+    width: 945.79px;
+    height: 642.12px;
+    position: relative
+
+}
+
+.base{
+    width: 1168.32px;
+    height: 20.86px;
+    border-radius: 2px, 2px, 0px, 0px;
+    position: absolute;
+    top: 806.48px;
+    left: 336px;    
+    background: linear-gradient(0deg, #A3ACB1, #A3ACB1),
+linear-gradient(90deg, #0D1012 0%, #CAD4DB 2.95%, #242729 6.25%, #A3ACB1 13.36%, #A3ACB1 86.6%, #242729 94.19%, #CAD4DB 97.13%, #0D1012 99.64%);
+
+}
+.lid{
+    width: 945.79px;
+    height: 642.12px;
+    position: absolute;
+    top: 169px;
+    left: 449.59px;
+    border-radius: 28px, 28px, 4px, 4px;
+    border: 2px;
+   
+}
+    
+
+.bottom{
+    width: 1168.32px;
+    height: 13.91px;
+    position: absolute;
+    top: 827.34px;
+    left: 336px;
+    
+
+
+}
+.groove{
+    width: 193.49px;
+    height: 16.23px;
+    position: absolute;
+    top: 806.48px;
+    left: 824px;
+}
+
+.screen{
+    width: 934.2px;
+    height: 611.98px;
+    position: absolute;
+    top: 174.8px;
+    left: 455.38px;
+    border-radius: 22px, 22px, 0px, 0px;
+    
+}
+
+.rect{
+    width: 885.52px;
+    height: 583px;
+    position: absolute;
+    top: 203.77px;
+    left: 479.72px;
+    background: linear-gradient(270deg, #484D54 0%, #343B43 100%);
+}
+
+.shadow{
+    width: 1048.94px;
+    height: 11.59px;
+    position: absolute;
+    top: 842.41px;
+    left: 396.27px;
+    
+}
